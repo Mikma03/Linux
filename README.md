@@ -13,6 +13,20 @@
 
 - [Notes and introduction](#notes-and-introduction)
 
+    - [Navigating the Filesystem](#navigating-the-filesystem)
+
+    - [Manipulating Files and Directories](#manipulating-files-and-directories)
+
+    - [Deleting files and directories](#deleting-files-and-directories)
+
+    - [Moving, copying, and renaming files and directories](#moving-copying-and-renaming-files-and-directories)
+
+    - [Changing permissions](#changing-permissions)
+
+    - [Running Programs](#changing-permissions)
+
+    - [Working with Daemons](#working-with-daemons)
+
 # Introduction
 
 
@@ -123,7 +137,7 @@ Like most other Linux commands, `mkdir` has a lot of options that modify its beh
 
 For example, let’s say you had some files you needed to store, and you wanted to store them in /opt/sw/network. If you were in the /opt directory and entered `mkdir` sw/network when the sw directory didn’t already exist, the `mkdir` command would report an error. However, if you simply added the `-p` option, `mkdir` would then create the sw directory if needed, then create network under sw. This is a great way to create an entire path all at once without failing due to errors if a directory along the way already exists
 
-## Deleting files and directories**
+## Deleting files and directories
 
 Similar to the way there are two commands for creating files and directories, there are two commands for deleting files and directories. Generally, you’ll use the `rm` command to delete (remove) files, and you’ll use the `rmdir` command to delete directories.
 
