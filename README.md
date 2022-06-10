@@ -1,36 +1,25 @@
-# Linux
 
+<!-- TOC -->
 
-# Table of content
-
-- [Introduction](#introduction)
-
-- [Resources](#resources)
-
-- [Linux Operating System - Crash Course](#linux-operating-system---crash-course)
-
+- [Linux - Introduction](#linux---introduction)
+- [Resources - installation](#resources---installation)
+- [Courses](#courses)
 - [Examining Linux in a Network Automation Context](#examining-linux-in-a-network-automation-context)
-
-- [Notes and introduction](#notes-and-introduction)
-
+- [Notes and introduction to Linux](#notes-and-introduction-to-linux)
     - [Navigating the Filesystem](#navigating-the-filesystem)
-
     - [Manipulating Files and Directories](#manipulating-files-and-directories)
-
     - [Deleting files and directories](#deleting-files-and-directories)
-
     - [Moving, copying, and renaming files and directories](#moving-copying-and-renaming-files-and-directories)
-
     - [Changing permissions](#changing-permissions)
-
-    - [Running Programs](#changing-permissions)
-
+    - [Running Programs](#running-programs)
     - [Working with Daemons](#working-with-daemons)
 
-# Introduction
+<!-- /TOC -->
+
+# Linux - Introduction
 
 
-# Resources
+# Resources - installation
 
 - WSL2 Ubuntu GUI
     - https://www.youtube.com/watch?v=IL7Jd9rjgrM&list=PLhfrWIlLOoKNMHhB39bh3XBpoLxV3f0V9&index=7
@@ -41,15 +30,29 @@
 - Linux as app on Windows 10/11
     - https://www.youtube.com/watch?v=4emmQuY25aY
 
-# Linux Operating System - Crash Course
+- Linux Under the Hood
+    - https://learning.oreilly.com/videos/linux-under-the/9780134663500/
 
-- https://www.youtube.com/watch?v=ROjZy1WbCIA
+# Courses
+
+- Linux Operating System - Crash Course
+    - https://www.youtube.com/watch?v=ROjZy1WbCIA
+
+- Linux Fundamentals
+    - https://learning.oreilly.com/videos/linux-fundamentals-2nd/9780137929313/
+
+- Bash Shell Scripting
+    - https://learning.oreilly.com/videos/bash-shell-scripting/9780137689064/9780137689064-BSS2_00_00_00/
+
 
 # Examining Linux in a Network Automation Context
 
+
 - https://learning.oreilly.com/library/view/network-programmability-and/9781491931240/ch03.html#idm139936295705504
 
+
 # Notes and introduction to Linux
+
 
 ## Navigating the Filesystem
 
