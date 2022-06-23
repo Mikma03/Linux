@@ -1,0 +1,28 @@
+#!/bin/bash
+
+#
+who
+
+#
+ls
+
+#
+who > outfile
+
+#
+cat
+
+#
+sudo -i
+
+#
+ps aux
+
+#
+ls -l
+
+ls -a
+
+#
+ps aux | less
+
