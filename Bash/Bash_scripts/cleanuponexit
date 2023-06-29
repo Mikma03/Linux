@@ -1,6 +1,0 @@
-#!/bin/bash
-tempfile=/tmp/tmpdata
-touch $tempfile
-ls -l $tempfile
-trap "rm -f $tempfile" EXIT
-

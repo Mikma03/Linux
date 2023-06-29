@@ -1,6 +1,0 @@
-#!/bin/bash
-
-set -e
-
-false
-echo do we see this

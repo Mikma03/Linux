@@ -1,9 +1,0 @@
-#!/bin/bash
-#
-# This is some comment
-# Here you can put how to use the script
-
-clear
-echo hello world
-
-exit 0
