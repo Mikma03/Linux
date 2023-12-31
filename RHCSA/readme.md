@@ -1,5 +1,1 @@
-
-
-
 # Oreilly video courses
-
